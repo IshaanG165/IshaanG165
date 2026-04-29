@@ -12,9 +12,9 @@
 
 <a href="https://ishaangulati.dev"><img src="https://img.shields.io/badge/Portfolio-ishaangulati.dev-00C8FF?style=flat-square&logo=vercel&logoColor=00C8FF&labelColor=020810" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-Connect-00C8FF?style=flat-square&logo=linkedin&logoColor=00C8FF&labelColor=020810" /></a>
+<a href="https://www.linkedin.com/in/ishaan-gulati/"><img src="https://img.shields.io/badge/LinkedIn-Connect-00C8FF?style=flat-square&logo=linkedin&logoColor=00C8FF&labelColor=020810" /></a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-Say%20hello-00C8FF?style=flat-square&logo=gmail&logoColor=00C8FF&labelColor=020810" /></a>
+<a href="mailto:ishaangulati165@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-00C8FF?style=flat-square&logo=gmail&logoColor=00C8FF&labelColor=020810" /></a>
 
 </div>
 
