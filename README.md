@@ -44,9 +44,9 @@ I work fastest in **TypeScript + Next.js + Python**, and I'm comfortable owning 
 
 ## Projects worth looking at
 
-### [🌱 Crop Health Analyzer](https://github.com/Rohan-Ramkumar/commstem-project) &nbsp;·&nbsp; 🏆 Hackathon Winner — Canva × USYD
+### [🌱 Spore Scout](https://github.com/IshaanG165/Spore-Scout) &nbsp;·&nbsp; 🏆 Hackathon Winner — Canva × USYD
 **AI-powered Flutter mobile app for real-time crop disease detection.**
-Built with a team of 5 at the Canva × USYD hackathon (1,200+ participants). The app uses a TFLite on-device AI model to analyse photos of crop leaves and detect 8 conditions — fungal stress, nitrogen deficiency, bacterial spot, viral infection, and more. Pairs with ESP32 Bluetooth environmental sensors for real-time humidity and temperature. Generates eco-friendly organic treatment recommendations. Fully offline-capable.
+Built with a team of 5 at the Canva × USYD hackathon (200+ participants). The app uses a TFLite on-device AI model to analyse photos of crop leaves and detect 8 conditions — fungal stress, nitrogen deficiency, bacterial spot, viral infection, and more. Pairs with ESP32 Bluetooth environmental sensors for real-time humidity and temperature. Generates eco-friendly organic treatment recommendations. Fully offline-capable.
 
 My contributions: AI model integration (TFLiteService), Bluetooth sensor data pipeline (SensorService), scan history with Hive local persistence, and the results UI.
 
