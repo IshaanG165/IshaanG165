@@ -32,7 +32,7 @@ I work fastest in **TypeScript + Next.js + Python**, and I'm comfortable owning 
 
 ## A few things that set me apart
 
-🏆 &nbsp;**Hackathon Winner — Canva × USYD** (1,200+ participants) — built and shipped a full AI-powered Flutter mobile app with a team of 5 under time pressure. That's the kind of environment I thrive in.
+🏆 &nbsp;**Hackathon Winner — Canva × USYD** (200+ participants) — built and shipped a full AI-powered Flutter mobile app with a team of 5 under time pressure. That's the kind of environment I thrive in.
 
 🎓 &nbsp;**Dalyell Scholar + UG Honour Roll** — top ~2% of cohort. I pick up new domains fast and apply them.
 
